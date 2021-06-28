@@ -30,6 +30,8 @@ Pretrained Generator for Maps https://drive.google.com/file/d/19gJx8VwLwulEM1Jre
 * Number of test images: 60
 ### Rembrandt dataset
 The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/grafstor/rembrandt-pix2pix-dataset?select=generator_a.h5).
+
+Pretrained Generator for Rembrandt https://drive.google.com/file/d/1FNLB_8vBTvANxYZmb7eVyVXMgeDNUIXZ/view?usp=sharing
 ### Results
 * Adam optimizer is used. Learning rate = 0.0002, batch size = 1, # of epochs = 250
 * Generated images using test data
