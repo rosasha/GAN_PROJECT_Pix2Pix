@@ -9,6 +9,7 @@ Project for DLS
 * Number of test images: 1,098
 ### Maps dataset
 The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/vikramtiwari/pix2pix-dataset).
+Pretrained Generator for Maps https://drive.google.com/file/d/19gJx8VwLwulEM1JreUDRhAaTTk4X7_oV/view?usp=sharing
 ### Results
 * Adam optimizer is used. Learning rate = 0.0002, batch size = 4, # of epochs = 200 (из-за ограниченности по времени, для полной имплементации требуется batch size = 1)
 * Generated images using test data
