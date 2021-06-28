@@ -26,6 +26,8 @@ The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/vikramt
 * Image size is 256x256
 * Number of training images: 240
 * Number of test images: 60
+### Rembrandt dataset
+The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/grafstor/rembrandt-pix2pix-dataset?select=generator_a.h5).
 ### Results
 * Adam optimizer is used. Learning rate = 0.0002, batch size = 1, # of epochs = 250
 * Generated images using test data
