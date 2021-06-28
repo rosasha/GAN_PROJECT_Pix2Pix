@@ -13,7 +13,7 @@ Project for DLS
 
     |1st column: Input / 2nd column: Generated / 3rd column: Target|
     |:---:|
-    |![](maps_test_results/Test_result_492.png)|
+    |![](image/maps/label_1.png)|
     |![](maps_test_results/Test_result_560.png)|
     |![](maps_test_results/Test_result_627.png)|
     |![](maps_test_results/Test_result_746.png)|
