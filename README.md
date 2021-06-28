@@ -42,4 +42,7 @@ Pretrained Generator for Rembrandt https://drive.google.com/file/d/1FNLB_8vBTvAN
     |![](image/rembrandt/input_10.png)|
     |![](image/rembrandt/y_gen_249.png)|
     
-    #### Abstract
+    #### Замечания по выполненной проектной работе:
+    Проект состоит из двух частей:
+    1. Имплементация статьи по pix2pix https://arxiv.org/pdf/1611.07004.pdf
+    2. 
