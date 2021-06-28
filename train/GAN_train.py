@@ -60,8 +60,8 @@ def save_some_examples(gen, val_loader, epoch, folder):
 
 lamb = 100
 l_r = 2e-4
-num_epochs = 100
-batch_size = 1
+num_epochs = 200
+batch_size = 4
 
 
 # In[6]:
