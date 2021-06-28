@@ -49,8 +49,9 @@ Pretrained Generator for Rembrandt https://drive.google.com/file/d/1FNLB_8vBTvAN
    
 Предобработка данных по обоим датасетам находится в папке data
 
-Готовые результаты вынесены в папку image и в README.md.
+    Готовые результаты вынесены в папку image и в README.md.
 Модель генератора и дискриминатора описана в папке model.
 В папке train находится обучающий модуль.
 По рекомендации куратора использовал в обучающем модуле argparse, но потом закомментировал его, т.к. данный модуль запускался из JUPYTER.
 Так как на github не заливаются файлы более 25м, - на обученные генераторы дал ссылки.
+    Во время работы иногда воспользовывался идеями Aladdin Persson, ссылка на его реализацию: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/Pix2Pix
