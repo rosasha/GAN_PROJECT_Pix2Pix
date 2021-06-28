@@ -36,4 +36,4 @@ The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/grafsto
     |:---:|
     |![](image/rembrandt/label_10.png)|
     |![](image/rembrandt/input_10.png)|
-    |![](image/rembrandt/y_gen_600.png)|
+    |![](image/rembrandt/y_gen_249.png)|
