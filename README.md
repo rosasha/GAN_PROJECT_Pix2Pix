@@ -55,3 +55,5 @@ Pretrained Generator for Rembrandt https://drive.google.com/file/d/1FNLB_8vBTvAN
 По рекомендации куратора использовал в обучающем модуле argparse, но потом закомментировал его, т.к. данный модуль запускался из JUPYTER.
 Так как на github не заливаются файлы более 25м, - на обученные генераторы дал ссылки.
     Во время работы иногда использовал идеи Aladdin Persson, ссылка на его реализацию: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/Pix2Pix
+    
+    1. По первой работе практически полностью получил, то что хотел. Если бы испоьзовал batch size = 1 икол-во эпох более 200, результат был бы более впечатляющим
