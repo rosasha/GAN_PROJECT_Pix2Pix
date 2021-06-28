@@ -54,4 +54,4 @@ Pretrained Generator for Rembrandt https://drive.google.com/file/d/1FNLB_8vBTvAN
 В папке train находится обучающий модуль.
 По рекомендации куратора использовал в обучающем модуле argparse, но потом закомментировал его, т.к. данный модуль запускался из JUPYTER.
 Так как на github не заливаются файлы более 25м, - на обученные генераторы дал ссылки.
-    Во время работы иногда воспользовывался идеями Aladdin Persson, ссылка на его реализацию: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/Pix2Pix
+    Во время работы иногда использовал идеи Aladdin Persson, ссылка на его реализацию: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/Pix2Pix
