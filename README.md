@@ -14,7 +14,7 @@ Project for DLS
     |1st row: Label / 2nd row: Input / 3rd column: Generated|
     |:---:|
     |![](image/maps/label_1.png)|
-    |![](maps_test_results/Test_result_560.png)|
+    |![](image/maps/input_0.png)|
     |![](maps_test_results/Test_result_627.png)|
     |![](maps_test_results/Test_result_746.png)|
 
