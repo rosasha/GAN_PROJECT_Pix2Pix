@@ -10,7 +10,7 @@ Project for DLS
 ### Maps dataset
 The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/vikramtiwari/pix2pix-dataset).
 ### Results
-* Adam optimizer is used. Learning rate = 0.0002, batch size = 1, # of epochs = 100 (из-за ограниченности по времени, для полной имплементации требуется 200 эпох)
+* Adam optimizer is used. Learning rate = 0.0002, batch size = 4, # of epochs = 200 (из-за ограниченности по времени, для полной имплементации требуется batch size = 1)
 * Generated images using test data
 
     |1st row: Label / 2nd row: Input / 3rd column: Generated|
