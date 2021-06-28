@@ -24,3 +24,12 @@ Project for DLS
 * Image size is 256x256
 * Number of training images: 240
 * Number of test images: 60
+### Results
+* Adam optimizer is used. Learning rate = 0.0002, batch size = 1, # of epochs = 250
+* Generated images using test data
+
+    |1st row: Label / 2nd row: Input / 3rd column: Generated|
+    |:---:|
+    |![](image/maps/label_1.png)|
+    |![](image/maps/input_0.png)|
+    |![](maps_test_results/Test_result_627.png)|
