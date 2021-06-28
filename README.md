@@ -8,4 +8,4 @@ Project for DLS
 * Number of training images: 1,096
 * Number of test images: 1,098
 ### Results
-* Adam optimizer is used. Learning rate = 0.0002, batch size = 1, # of epochs = 200:
+* Adam optimizer is used. Learning rate = 0.0002, batch size = 1, # of epochs = 100 (из-за ограниченности по времени, для полной имплементации требуется 200 эпох)
