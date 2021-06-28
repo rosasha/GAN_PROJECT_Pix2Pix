@@ -30,6 +30,6 @@ Project for DLS
 
     |1st row: Label / 2nd row: Input / 3rd column: Generated|
     |:---:|
-    |![](image/maps/label_1.png)|
-    |![](image/maps/input_0.png)|
-    |![](maps_test_results/Test_result_627.png)|
+    |![](image/rembrandt/label_10.png)|
+    |![](image/rembrandt/input_10.png)|
+    |![](image/rembrandt/y_gen_600.png)|
