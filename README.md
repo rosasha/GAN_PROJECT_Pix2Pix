@@ -17,7 +17,7 @@ The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/vikramt
     |:---:|
     |![](image/maps/label_1.png)|
     |![](image/maps/input_0.png)|
-    |![](maps_test_results/Test_result_627.png)|
+    |![](image/maps/y_gen_199.png)|
 
 
 
