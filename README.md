@@ -9,3 +9,12 @@ Project for DLS
 * Number of test images: 1,098
 ### Results
 * Adam optimizer is used. Learning rate = 0.0002, batch size = 1, # of epochs = 100 (из-за ограниченности по времени, для полной имплементации требуется 200 эпох)
+** Generated images using test data
+
+    |1st column: Input / 2nd column: Generated / 3rd column: Target|
+    |:---:|
+    |![](maps_test_results/Test_result_492.png)|
+    |![](maps_test_results/Test_result_560.png)|
+    |![](maps_test_results/Test_result_627.png)|
+    |![](maps_test_results/Test_result_746.png)|
+
