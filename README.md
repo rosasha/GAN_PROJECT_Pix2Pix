@@ -16,5 +16,11 @@ Project for DLS
     |![](image/maps/label_1.png)|
     |![](image/maps/input_0.png)|
     |![](maps_test_results/Test_result_627.png)|
-    |![](maps_test_results/Test_result_746.png)|
 
+
+
+
+## Rembrandt dataset
+* Image size is 256x256
+* Number of training images: 240
+* Number of test images: 60
