@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
 
 
 import numpy as np
@@ -62,7 +61,7 @@ if __name__ == "__main__":
         break
 
 
-# In[ ]:
+
 
 
 
